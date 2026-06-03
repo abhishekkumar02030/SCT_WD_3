@@ -76,7 +76,7 @@ Building interactive web applications.
 Improving user experience through real-time feedback.
 👨‍💻 Author :ABHISHEK KUMAR
 Skillcraft Technology internship Task 02- Quiz Game application
-(SCT_WD_2) Email:kabhishek)2030@gmail.com
+(SCT_WD_2) Email:kabhishek02030@gmail.com
 Project: Quiz Game Application
 LinkedIn:www.linkedin.com/in/abhishek-kumar-7937a53b0
 GitHub: https://github.com/abhishekkumar02030/SCT_WD_3
