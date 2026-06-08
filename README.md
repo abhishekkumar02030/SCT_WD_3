@@ -96,11 +96,11 @@ Skillcraft Technology internship Task 02- Quiz Game application (SCT_WD_2)
 
 Email:kabhishek02030@gmail.com
 
-Project: Quiz Game Application
 
 LinkedIn:www.linkedin.com/in/abhishek-kumar-7937a53b0
 
 GitHub: https://github.com/abhishekkumar02030/SCT_WD_3
 
-Live project :
+Live project :https://abhishekkumar02030.github.io/SCT_WD_3/
+
 
