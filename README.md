@@ -4,7 +4,7 @@
 Quiz Game Application
 
 # 📌 Project Overview
-The Quiz Game Application is an interactive web-based quiz platform developed using HTML, CSS, and JavaScript. It presents multiple-choice questions to users, evaluates their answers instantly, tracks scores, and displays the final result at the end of the quiz.
+The Quiz Game Application is an interactive web-based quiz platform developed using HTML, CSS, and JavaScript(SCT_WD_3). It presents multiple-choice questions to users, evaluates their answers instantly, tracks scores, and displays the final result at the end of the quiz. @SKILLCRAFTTECHNOLOGY
 # 🚀 Features
 
 
@@ -51,12 +51,7 @@ JavaScript (ES6)
 
            |
            |__readme.md
- # 📌 LinkedIn Project Description
-Quiz Game Application | HTML, CSS & JavaScript
-Developed an interactive Quiz Game Application that allows users to answer multiple-choice questions and receive instant feedback. Implemented dynamic question rendering, score calculation, answer validation, and responsive user interface design using HTML, CSS, and JavaScript.
-# 🔖 LinkedIn Caption
-# 🚀 Excited to share my latest project: Quiz Game Application!
-This project was built using HTML, CSS, and JavaScript and features dynamic question handling, score tracking, instant feedback, and a responsive design for a smooth user experience.
+
 # 💡 Key Features:
 ✔️ Multiple-choice questions
 
@@ -92,7 +87,7 @@ Improving user experience through real-time feedback.
 # 👨‍💻 Author :
 ABHISHEK KUMAR
 
-Skillcraft Technology internship Task 02- Quiz Game application (SCT_WD_2)
+Skillcraft Technology internship Task 03- Quiz Game application (SCT_WD_3)
 
 Email:kabhishek02030@gmail.com
 
