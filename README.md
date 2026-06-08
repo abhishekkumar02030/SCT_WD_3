@@ -102,7 +102,5 @@ LinkedIn:www.linkedin.com/in/abhishek-kumar-7937a53b0
 
 GitHub: https://github.com/abhishekkumar02030/SCT_WD_3
 
-Live project :https://github.com/abhishekkumar02030/SCT_WD_3.git
-Abhishek-kumar-7937a53b0 licence this project is created for eductional and internship purposes under the SkillCraft Technology internship Program.
+Live project :
 
-Quiz readme
