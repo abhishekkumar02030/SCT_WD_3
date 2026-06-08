@@ -1,5 +1,6 @@
-🧠 Quiz Game Application
-📌 Project Title
+# 🧠 Quiz Game Application
+
+# 📌 Project Title
 Quiz Game Application
 📌 Project Overview
 The Quiz Game Application is an interactive web-based quiz platform developed using HTML, CSS, and JavaScript. It presents multiple-choice questions to users, evaluates their answers instantly, tracks scores, and displays the final result at the end of the quiz.
